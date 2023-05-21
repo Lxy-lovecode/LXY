@@ -46,7 +46,7 @@ var settings = {
         // 文字宽度
         width: "100",
         // 文字颜色
-        color: "#FFF",
+        color: "#FFB6C1",
         // 文字是否加粗,0不加粗，1加粗
         bold: "1",
         // 文字距离左边多远
@@ -61,13 +61,13 @@ var settings = {
         // 图片放在image文件夹下，然后写图片名比如 xxx.png
         src: "你好.jpg",
         // 图片宽度
-        width: "251",
+        width: "110",
         // 图片高度
-        height: "154",
+        height: "110",
         // 图片距离顶部距离
-        top: "200",
+        top: "10",
         // 图片距离左边距离
-        left: "100",
+        left: "150",
         // 圆角，50%是圆形
         borderRadius: "50%",
         // 透明度，1不透明，0不透明
